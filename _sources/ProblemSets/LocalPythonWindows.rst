@@ -22,7 +22,7 @@ Download `Git for Windows`_. On all the install modal screens, just choose all t
 Practice the command line
 *************************
 
-We're going to use Appendix A from the online book *Learn Python the Hard Way* (don't worry, the book is more approachable than it sounds). This section is called `Command Line Crash Course`_ and it contains 15 short tutorials teaching you the basics of how to interact with your computer's file and operating systems using a "terminal" or "shell". **Do not follow the instructions for Windows**. Follow the instructions for Linux/OSX instead, since Git Bash uses UNIX commands. Do all 15 lessons.
+We're going to use Appendix A from the online book *Learn Python the Hard Way* (don't worry, the book is more approachable than it sounds). This section is called `Command Line Crash Course`_ and it contains 15 short tutorials teaching you the basics of how to interact with your computer's file and operating systems using a "terminal" or "shell". **In the Command Line Crash Course, Do not follow the instructions for Windows**. Git Bash is a Linux-like environment, even though it's running on your windows machine. Follow the instructions for Linux/OSX instead, since Git Bash uses UNIX commands. Do all 15 lessons.
 
 Installing and Running Python Locally
 =====================================
