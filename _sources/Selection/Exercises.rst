@@ -435,7 +435,7 @@ Graded Lesson Assignment
 
 .. container:: full_width
 
-    A year is a **leap year** if it is divisible by 4, unless it is the first year of a century and it is not divisible by 400.
+    A year is a **leap year** if it is divisible by 4, however a century year cannot be a leap year unless it is divisible by 400.
 
     For example:
 
